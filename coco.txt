@@ -1,9 +1,5 @@
 Godown
 Priest
-Holls
-Independent
-Mood
-Force
 down
 Delay
 Enter
